@@ -1,6 +1,6 @@
 
 
-# Fav Ice Cream (I am sabotaging this project intentionally)
+# Fav Ice Cream
 
 Desik - Coconut Ice Cream
 
